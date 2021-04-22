@@ -1,0 +1,12 @@
+site_name: CZ_OpenSpice-Docs
+pages:
+    - 简要介绍: Home/index.md 
+    - 使用手册: 
+        - 使用详解: Guide/guide_1.md 
+        - 元件属性: Guide/guide_2.md
+        - 仿真设置: Guide/guide_3.md
+    - 样例示范:
+        - Example1: Demo/demo_1.md
+        - Example2: Demo/demo_2.md
+    - 关于: About/about.md
+theme: readthedocs
