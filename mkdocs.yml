@@ -6,7 +6,9 @@ pages:
         - 元件属性: Guide/guide_2.md
         - 仿真设置: Guide/guide_3.md
     - 样例示范:
-        - Example1: Demo/demo_1.md
-        - Example2: Demo/demo_2.md
+        - 直流扫描: Demo/demo_1.md
+        - 瞬态仿真: Demo/demo_2.md
+        - 交流仿真: Demo/demo_3.md
+
     - 关于: About/about.md
 theme: readthedocs
