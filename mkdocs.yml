@@ -9,6 +9,7 @@ pages:
         - 直流扫描: Demo/demo_1.md
         - 瞬态仿真: Demo/demo_2.md
         - 交流仿真: Demo/demo_3.md
+        - 视频讲解: Demo/demo_4.md
 
     - 关于: About/about.md
 theme: readthedocs
