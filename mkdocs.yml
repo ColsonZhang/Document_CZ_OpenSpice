@@ -1,6 +1,7 @@
 site_name: CZ_OpenSpice-Docs
 pages:
-    - 简要介绍: Home/index.md 
+    - 项目介绍: 
+        - 项目简介: Home/index.md 
     - 使用手册: 
         - 使用详解: Guide/guide_1.md 
         - 元件属性: Guide/guide_2.md
